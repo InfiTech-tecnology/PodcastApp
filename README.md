@@ -17,3 +17,6 @@
         5. WEBP
         6. SASS.
         7. SOURCEMAPS
+
+## VERSION DE TAGS
+   1. VERSION = BETA 
