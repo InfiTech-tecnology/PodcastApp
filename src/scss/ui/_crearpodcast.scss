@@ -10,4 +10,9 @@
     .imagen {
         margin-bottom: 2rem;
     }
+    .contenido {
+        h2 {
+            @include m.headingBorder(v.$secundario, v.$primario);
+        }
+    }
 }
